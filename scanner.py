@@ -13,3 +13,4 @@ for port in range(1,100):
         continue
     finally:
         sock.close()
+        
